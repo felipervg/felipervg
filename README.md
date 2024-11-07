@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @felipervg
+- 👀 I’m interested in expand my knowledge of programming
+- 🌱 I’m currently learning programming logic and C language
+- 💞️ I’m looking to collaborate on simple projects
+- 📫 How to reach me if you want to get in touch, send me an email: felipemartinsportelarovigo@gmail.com
+- ⚡ Fun fact: I spent three hours making “Hello world” in C 🙂
